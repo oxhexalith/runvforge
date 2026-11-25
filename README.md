@@ -13,7 +13,4 @@
 
   <p>когда нибудь я допишу этот мдшник</p>
 </div>
-
-![snake](https://raw.githubusercontent.com/runvforge/runvforge/output/snake.svg)
-
 </div>
